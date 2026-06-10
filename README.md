@@ -1,5 +1,6 @@
 # Retirement Portfolio Monte Carlo Simulator
 
+Author: Milo Schoenen  
 A comprehensive **Excel + VBA** application that uses historical bootstrap Monte Carlo simulation to evaluate retirement portfolio survival and growth.
 
 ## Features
